@@ -1,5 +1,5 @@
 # 🌞 Maya Calendar Engine — Tzolk’in & Haab
-![maya_calender](screenchots/layout.png)
+![maya_calender](screenshots/layout.png)
 
 Een interactieve Maya-kalender die de **Tzolk’in (260 dagen)** en **Haab (365 dagen)** combineert in één visuele, educatieve en rituele webapp.
 
@@ -22,5 +22,6 @@ Het project bestaat uit:
 - Geschikt voor educatie, spiritualiteit en kunstprojecten  
 
 ---
+
 
 
